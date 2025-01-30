@@ -2,9 +2,6 @@
 Please visit the following link to access the demo version: [Spotify-Recommendation-System](https://huggingface.co/spaces/Longliveruby/Spotify-Recommendation-System)
 
 
-YouTube video demonstrating the Streamlit app: https://youtu.be/VASd9UEKWUo?si=989u_19ec3VSI6JN
-
-
 ## Description
 The goal of this project is to create a recommendation system that would allow users to discover music based on a given playlist or song that they already enjoy. This project begins with data collection and a self-growing dataset to ensure that the model will work well in the future and continues through model deployment.
 
